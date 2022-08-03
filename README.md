@@ -1,5 +1,5 @@
 # Restaurant page
-<p align='center'><img src = 'https://lh5.googleusercontent.com/YIkaKDrhRdajZhHbvT9ua5i0PXju8bbBZow7fkikH_Om-6t3P9E8ncMAgDRnjy6xCVJvPI-IxyPaqcWGTy9N=w1858-h868' width = '550' height = '400'>
+<p align='center'><img src = 'https://i.im.ge/2022/08/03/FxlBfY.websitePic.jpg' width = '550' height = '400'>
 </p>
 
 ## About
