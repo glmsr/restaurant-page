@@ -1,0 +1,114 @@
+:root{
+    --blackBg: rgba(0, 0, 0, 0.500);
+    --grayish: rgb(233, 233, 233);
+}
+
+#content{
+    display: flex;
+    border: 1px solid black;
+    margin: 0%;
+    padding: 0%;
+    height: 100vh;
+    width: auto;
+    background-image : url(../dist/image/burgerpic2.jpg);
+    background-size: cover;
+    
+}
+#homeDiv{
+    display: flex;
+    color: var(--grayish);
+    text-align: center;
+    padding-top: 200px;
+    padding-bottom: 200px;
+    height: 99vh;
+    text-shadow:1px 1px #000;
+}
+
+#restaurantName{
+    position: absolute;
+    right:0;
+    left: 0;
+
+}
+.nav{
+    position: absolute;
+    top: 0;
+    right:0;
+    left: 0;
+    justify-content: right;
+    z-index: 2;
+    text-decoration: none;
+    background-color: var(--blackBg);
+}
+
+.nav-link{
+    text-decoration: none;
+    color: white;
+}
+
+.footer{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    padding-top: 10px;
+    background-color: var(--blackBg);
+    border-top: 1px solid white;
+}
+#menuDiv{
+    display: flex;
+    flex-direction: column; 
+    bottom: 0;
+    max-height: 99vh;
+    width: 100%;
+    overflow: scroll;
+    margin-top : 49px;
+    background-color: var(--blackBg);
+    overflow-x: hidden;
+}
+
+#contactDiv{
+    display: flex;
+    flex-direction: column;
+    height: 70vh;
+    width: 100%;
+    overflow:hidden;
+    margin-top: 100px;
+    background-color: var(--blackBg);
+    color: white;
+    text-align: center;
+    /* align-items: center; */
+    
+}
+
+::-webkit-scrollbar{
+    width: 10px;
+}
+
+::-webkit-scrollbar-track {
+    background: #000;
+}
+::-webkit-scrollbar-thumb {
+background: rgb(255, 0, 0);
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: rgb(255, 110, 110);
+}
+.card{
+    margin: 3% 20%;
+    padding: 5px;
+}
+.img-fluid{
+    overflow: hidden;
+}
+
+.contactInfo{
+    margin: 10px;
+}
+
+#myMap{
+    position: relative;
+    align-self: center;
+    
+}
