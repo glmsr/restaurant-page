@@ -1,6 +1,7 @@
 # Restaurant page
-<p align='center'><img src = 'https://i.im.ge/2022/08/03/FxlBfY.websitePic.jpg' width = '550' height = '400'>
+<p align='center'><img src = 'https://user-images.githubusercontent.com/78612977/182823785-3329206a-21a7-4fdf-81fd-0896d101fc2a.jpeg' width = '550' height = '400'>
 </p>
+
 
 ## About
 ---
@@ -23,9 +24,7 @@ Create a restaurant webpage, using only DOM manipulation with ES6 Modules.
 
 ## Tools 
 
-<img src="https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=html5">
-<img src="https://img.shields.io/badge/-CSS-%231572B6?style=for-the-badge&logo=CSS3">
-<img src="https://img.shields.io/badge/-JAVASCRIPT-%233A3A42?style=for-the-badge&logo=javascript">
+<img src="https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=html5"><img src="https://img.shields.io/badge/-CSS-%231572B6?style=for-the-badge&logo=CSS3"><img src="https://img.shields.io/badge/-JAVASCRIPT-%233A3A42?style=for-the-badge&logo=javascript">
 
 ---
 <p align='center'>
